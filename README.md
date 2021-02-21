@@ -1,5 +1,6 @@
 ## PhpLokalElectron
 
-Instalação:
+Instalação:https://github.com/sidneirs/PhpLokalElectron.git
+
 
 
